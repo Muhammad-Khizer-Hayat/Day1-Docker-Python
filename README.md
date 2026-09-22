@@ -85,5 +85,5 @@ The Dockerfile:
 ## 🔗 GitHub
 
 This project is available on my GitHub profile.
-
-**Author:** Muhammad Khizer Hayat
+https://github.com/Muhammad-Khizer-Hayat/Day1-Docker-Python
+ Muhammad Khizer Hayat
